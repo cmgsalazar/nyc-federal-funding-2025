@@ -4,6 +4,8 @@ This repository holds preliminary budget reports from the [New York City Council
 
 The data will be analyzed and used for a reporting assignment for the [Mott Haven Herald](https://motthavenherald.com/) and [Hunts Point Express](https://huntspointexpress.com/), to be produced with Usha Sookai and Valerie Dowret.
 
+![image](viz/viz-map.png)
+
 ## Content and process
 
 
