@@ -11,12 +11,14 @@ The data will be analyzed and used for a reporting assignment for the [Mott Have
 
 ### `pdfs`
 
-The folder contains PDF files of NY City Council preliminary budget reports scraped via `BeautifulSoup` and `requests`. 
+The folder contains PDF files of NY City Council preliminary budget reports scraped and downloaded via `BeautifulSoup` and `requests`. 
 
 See `scraper.ipnyb` and `downloader.ipynb` for the process. 
+
+The files were manually reviewed. Data about the total agency budget and amount of federal funding per agency were manually encoded.
 
 ### `usaspending`
 
 The folder contains downloaded federal awards data from USAspending.gov. 
 
-See `federal-awards-analysis.ipynb` for the process.
+See `federal-awards-analysis.ipynb` for the methodology.
